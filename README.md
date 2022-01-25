@@ -1,1 +1,2 @@
-# black-jack-game
+# black jack game
+made by me
